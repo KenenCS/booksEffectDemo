@@ -13,6 +13,18 @@
 		6CC92E9E1E82424C00726FF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92E9C1E82424C00726FF3 /* Main.storyboard */; };
 		6CC92EA01E82424C00726FF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92E9F1E82424C00726FF3 /* Assets.xcassets */; };
 		6CC92EA31E82424C00726FF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EA11E82424C00726FF3 /* LaunchScreen.storyboard */; };
+		6CC92EAF1E8242FF00726FF3 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CC92EAC1E8242FF00726FF3 /* NSString+Extension.m */; };
+		6CC92EB01E8242FF00726FF3 /* NSString+Path.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CC92EAE1E8242FF00726FF3 /* NSString+Path.m */; };
+		6CC92EBC1E82440000726FF3 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB21E82440000726FF3 /* 1.jpeg */; };
+		6CC92EBD1E82440000726FF3 /* 10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB31E82440000726FF3 /* 10.jpeg */; };
+		6CC92EBE1E82440000726FF3 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB41E82440000726FF3 /* 2.jpeg */; };
+		6CC92EBF1E82440000726FF3 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB51E82440000726FF3 /* 3.jpeg */; };
+		6CC92EC01E82440000726FF3 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB61E82440000726FF3 /* 4.jpeg */; };
+		6CC92EC11E82440000726FF3 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB71E82440000726FF3 /* 5.jpeg */; };
+		6CC92EC21E82440000726FF3 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB81E82440000726FF3 /* 6.jpeg */; };
+		6CC92EC31E82440000726FF3 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EB91E82440000726FF3 /* 7.jpeg */; };
+		6CC92EC41E82440000726FF3 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EBA1E82440000726FF3 /* 8.jpeg */; };
+		6CC92EC51E82440000726FF3 /* 9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CC92EBB1E82440000726FF3 /* 9.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,20 @@
 		6CC92E9F1E82424C00726FF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CC92EA21E82424C00726FF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6CC92EA41E82424C00726FF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CC92EAB1E8242FF00726FF3 /* NSString+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
+		6CC92EAC1E8242FF00726FF3 /* NSString+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extension.m"; sourceTree = "<group>"; };
+		6CC92EAD1E8242FF00726FF3 /* NSString+Path.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Path.h"; sourceTree = "<group>"; };
+		6CC92EAE1E8242FF00726FF3 /* NSString+Path.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Path.m"; sourceTree = "<group>"; };
+		6CC92EB21E82440000726FF3 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		6CC92EB31E82440000726FF3 /* 10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpeg; sourceTree = "<group>"; };
+		6CC92EB41E82440000726FF3 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		6CC92EB51E82440000726FF3 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		6CC92EB61E82440000726FF3 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		6CC92EB71E82440000726FF3 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		6CC92EB81E82440000726FF3 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		6CC92EB91E82440000726FF3 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		6CC92EBA1E82440000726FF3 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		6CC92EBB1E82440000726FF3 /* 9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +84,8 @@
 		6CC92E921E82424C00726FF3 /* booksEffectDemo */ = {
 			isa = PBXGroup;
 			children = (
+				6CC92EB11E82440000726FF3 /* Images */,
+				6CC92EAA1E8242FF00726FF3 /* NSString */,
 				6CC92E961E82424C00726FF3 /* AppDelegate.h */,
 				6CC92E971E82424C00726FF3 /* AppDelegate.m */,
 				6CC92E991E82424C00726FF3 /* ViewController.h */,
@@ -77,6 +105,34 @@
 				6CC92E941E82424C00726FF3 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6CC92EAA1E8242FF00726FF3 /* NSString */ = {
+			isa = PBXGroup;
+			children = (
+				6CC92EAB1E8242FF00726FF3 /* NSString+Extension.h */,
+				6CC92EAC1E8242FF00726FF3 /* NSString+Extension.m */,
+				6CC92EAD1E8242FF00726FF3 /* NSString+Path.h */,
+				6CC92EAE1E8242FF00726FF3 /* NSString+Path.m */,
+			);
+			path = NSString;
+			sourceTree = "<group>";
+		};
+		6CC92EB11E82440000726FF3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				6CC92EB21E82440000726FF3 /* 1.jpeg */,
+				6CC92EB31E82440000726FF3 /* 10.jpeg */,
+				6CC92EB41E82440000726FF3 /* 2.jpeg */,
+				6CC92EB51E82440000726FF3 /* 3.jpeg */,
+				6CC92EB61E82440000726FF3 /* 4.jpeg */,
+				6CC92EB71E82440000726FF3 /* 5.jpeg */,
+				6CC92EB81E82440000726FF3 /* 6.jpeg */,
+				6CC92EB91E82440000726FF3 /* 7.jpeg */,
+				6CC92EBA1E82440000726FF3 /* 8.jpeg */,
+				6CC92EBB1E82440000726FF3 /* 9.jpeg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +193,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CC92EC51E82440000726FF3 /* 9.jpeg in Resources */,
+				6CC92EC21E82440000726FF3 /* 6.jpeg in Resources */,
 				6CC92EA31E82424C00726FF3 /* LaunchScreen.storyboard in Resources */,
+				6CC92EC41E82440000726FF3 /* 8.jpeg in Resources */,
+				6CC92EBD1E82440000726FF3 /* 10.jpeg in Resources */,
+				6CC92EC11E82440000726FF3 /* 5.jpeg in Resources */,
+				6CC92EBE1E82440000726FF3 /* 2.jpeg in Resources */,
+				6CC92EC31E82440000726FF3 /* 7.jpeg in Resources */,
 				6CC92EA01E82424C00726FF3 /* Assets.xcassets in Resources */,
 				6CC92E9E1E82424C00726FF3 /* Main.storyboard in Resources */,
+				6CC92EBF1E82440000726FF3 /* 3.jpeg in Resources */,
+				6CC92EC01E82440000726FF3 /* 4.jpeg in Resources */,
+				6CC92EBC1E82440000726FF3 /* 1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,6 +219,8 @@
 				6CC92E9B1E82424C00726FF3 /* ViewController.m in Sources */,
 				6CC92E981E82424C00726FF3 /* AppDelegate.m in Sources */,
 				6CC92E951E82424C00726FF3 /* main.m in Sources */,
+				6CC92EAF1E8242FF00726FF3 /* NSString+Extension.m in Sources */,
+				6CC92EB01E8242FF00726FF3 /* NSString+Path.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

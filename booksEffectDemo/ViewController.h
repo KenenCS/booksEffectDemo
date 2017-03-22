@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+@property (assign, nonatomic) NSUInteger pageIndex;
+
+- (id)initWithPageNumber:(NSInteger)pageNumber;
+
 
 @end
 
